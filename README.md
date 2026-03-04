@@ -12,9 +12,9 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-
+Nikola Hodson
 ## Summary
-In this lab 
+In this lab we explored binary subtraction methods. 
 ## Lab Questions
 
 ### 1 - Explain the differences between our Half Adder from last lab and the Half Subtractor from this lab.

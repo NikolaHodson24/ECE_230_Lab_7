@@ -26,5 +26,6 @@ though the output is the same the carry is instead a borrow and is calculated di
 the carry around causes the circuit to require twice the amount of work and steps to solve the problem
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
-there's 8 digits and the first one is for the sign and the only positive zero no negitive zero so the greatest number is 01111111 which equals 127 and the smallest number possible is 10000000 which equals -128 so the edge cases are 127 and -128 
-the problem with two's compliment is it's not symetric 
+there's 8 digits and the first one is for the sign and the only positive zero no negitive zero so the greatest number is 01111111 which equals 127 and the smallest number possible is 10000000 which equals -128 so the edge cases are 127 and -128. 
+
+The problem with two's compliment is it's not symetric. 
